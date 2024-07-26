@@ -16,18 +16,18 @@ git push
 
 #    ```bash
 #   git init
-# git .add
+#   git .add
 #   git commit -m "first commit"
 #   git branch -M main
-#   git remote add origin https://github.com/jookie/PhotoTrack.git
-#   git fast-forwards' in 'git push --help' for details.
 
-#   git push -u origin main
-
-# …or push an existing repository from the command line
-# git remote add origin https://github.com/jookie/captionai.git
+# …push an existing repository from the command line
+#   git remote rm origin
+#   git remote add origin https://github.com/jookie/captionai.git
+#   git remote -v
+#   git remote set-url https://github.com/jookie/PhotoTrack.git
 #   git branch -M main
 #   git push -u origin main
+#   
 #mm initialize this repository with code from a Subversion, Mercurial, or TFS projec
 
 # processes using "kill PID". 
