@@ -1,0 +1,61 @@
+<response>
+# Email from Grandpa to Dr. Peles
+
+## 📧 Email
+
+Subject: Benchmark Demonstration and RAG on FHIR Discussion
+
+Dear Shachar,
+
+Here is some homework for you to do: (These are not just some examples - these are all the examples...)
+
+There is only one single company that uses RAG on FHIR. The others, who knows which database they are using. My suggestion for you is to discuss RAG on FHIR with my grandsons, Nadav and Noam. They are more qualified than you to evaluate my package.
+
+Finally, as a board member, I am requesting you to organize a benchmark demonstration called the "Android FHIR SDK Retrieval Augmented Clinical Encounter Demo" and compare it to your other candidates.
+
+Here are the details:
+
+1. **Companies using RAG on FHIR platform for auto-adjudication:**
+   - Edenlab: Built an auto-adjudication engine for a large TPA in Hong Kong to automate claims processing for major health insurance companies. This system ensures data consistency and accuracy using FHIR[[1](https://edenlab.io/case/fhir-based-claims-auto-adjudication-engine)][[2](https://kodjin.com/blog/auto-adjudication-of-claims-system-case)].
+
+2. **Companies with FHIR only (no RAG platform):**
+   - The search results did not specify any companies with FHIR-only platforms without RAG for claims auto-adjudication. Further research may be needed to identify such companies.
+
+3. **Companies with automatic insurance claim engines without FHIR:**
+   - Plexis Health: Provides a rules-based engine to automate workflows for claims adjudication, benefit administration, enrollments, eligibilities, and premium billing, but there's no mention of FHIR integration[[6](https://www.plexishealth.com/claims-adjudication-software/)].
+
+
+## Exploring the Benefits of FHIR with RAG in Healthcare
+
+Here are some key references:
+
+1. **RAG on FHIR**: This article discusses how RAG can leverage FHIR to improve data consumption and integration, though it notes challenges due to FHIR's machine-friendly format [[1](https://medium.com/@samschifman/rag-on-fhir-29a9771f49b6)].
+
+2. **Benefits of FHIR for Healthcare**: This source outlines FHIR's advantages in managing healthcare data, enhancing interoperability, and supporting efficient data retrieval [[2](https://prolifics.com/us/resource-center/specialty-guides/fhir-guide/fhir-benefits)].
+
+3. **The Benefits of FHIR in Modern Healthcare**: This article highlights how FHIR improves data integration and patient care, crucial for effective model training [[3](https://binariks.com/blog/benefits-of-fhir/)].
+
+4. **FHIR Overview**: This page provides an overview of FHIR’s capabilities, including automated data retrieval and integration from EHRs [[4](https://ecqi.healthit.gov/fhir)].
+
+5. **Using FHIR with Generative AI**: This source discusses the synergy between FHIR and generative AI technologies, including practical implications for healthcare applications [[5](https://www.nlpsummit.org/rag-on-fhir-using-fhir-with-generative-ai-to-make-healthcare-less-opaque/)].
+
+Integrating FHIR with RAG offers several advantages:
+
+- **Easy Training**: Doctors can train models directly with their own data, enhancing personalization and accuracy. FHIR facilitates this by providing structured and accessible health data.
+- **Improved Data Integration**: FHIR’s standardization allows seamless integration with RAG, leading to better data consistency and more reliable outputs.
+
+This combination can significantly streamline healthcare workflows and improve model performance. I believe this integration holds great promise for our ongoing projects.
+
+Love,
+Dad
+## 🌐 Sources
+1. [edenlab.io - FHIR-based claims auto-adjudication engine](https://edenlab.io/case/fhir-based-claims-auto-adjudication-engine)
+2. [kodjin.com - Case Study: Claim Auto-Adjudication Engine Development](https://kodjin.com/blog/auto-adjudication-of-claims-system-case)
+3. [medium.com - RAG on FHIR](https://medium.com/@samschifman/rag-on-fhir-29a9771f49b6)
+4. [kodjin.com - 3 Best FHIR Software Development Companies](https://kodjin.com/blog/best-fhir-software-development-companies/)
+5. [edenlab.io - Case Studies](https://edenlab.io/cases)
+6. [plexishealth.com - Claims adjudication software](https://www.plexishealth.com/claims-adjudication-software/)
+7. [prolifics.com - What Are The Real-Life Benefits Of FHIR For Healthcare?](https://prolifics.com/us/resource-center/specialty-guides/fhir-guide/fhir-benefits)
+8. [binariks.com - The Benefits of FHIR in Modern Healthcare](https://binariks.com/blog/benefits-of-fhir/)
+9.  [ecqi.healthit.gov - FHIR®](https://ecqi.healthit.gov/fhir)
+10. [nlpsummit.org - RAG on FHIR: Using FHIR with Generative AI to Make Healthcare Less Opaque](https://www.nlpsummit.org/rag-on-fhir-using-fhir-with-generative-ai-to-make-healthcare-less-opaque/)
